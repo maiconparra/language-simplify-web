@@ -1,6 +1,8 @@
 {
   "name": "language-simplify-web",
   "version": "0.0.0",
+  "author": "Maicon Parra da Silva",
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +11,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~11.0.5",
     "@angular/common": "~11.0.5",
